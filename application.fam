@@ -20,4 +20,5 @@ App(
     fap_description="WIP MagSpoof port using the RFID subsystem",
     fap_author="Zachary Weiss",
     fap_weburl="https://github.com/zacharyweiss/magspoof_flipper",
+    fap_libs=["assets"],
 )
